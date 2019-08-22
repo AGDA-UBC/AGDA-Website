@@ -11,7 +11,7 @@ public class AgdaWebsite implements EntryPoint
 
     public void onModuleLoad()
     {
-        logger.info( "Test" );
+        logger.info( "Test Repo Transfer" );
     }
 
 
